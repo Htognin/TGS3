@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: linear-gradient(to bottom,#360086,#7315ff);
+}
+
+
+
+.main{
+    padding: 50px;
+    width: 1000px;
+    margin: auto;
+    background: linear-gradient(to bottom, #00fff7, #0077ff);
+    border-radius: 20px;
+}
+
+.conten1{
+    display: flex;
+}
+
+.conten1 img{
+    margin-right: 30px;
+}
+
+p{
+    margin: 20px 0;
+}
+
+h1{
+    background-color: aliceblue;
+    padding: 5px;
+    margin: 20px 0;
+}
+
+
